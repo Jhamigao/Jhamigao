@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2020<br>📚 I'm currently learning Data Science and AI</p>
+<p align="left">✨ Coding since 2020<br>📚 I'm currently studying Software Engineering</p>
 
 ###
 
